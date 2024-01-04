@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "e07c2288c5a4c077",
+    "type": "split",
+    "children": [
+      {
+        "id": "184466c037d67a03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a032f54864baed50",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f06712d21bbcb3c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "딥러닝/시퀀스 딥러닝의 모든것/시퀀스 딥러닝의 모든것1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a85de4aa6ecd7029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "딥러닝/시퀀스 딥러닝의 모든것/시퀀스 딥러닝의 모든것1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68b5b7d95d92f581",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c10a35006d713cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef7954939236e81f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "851b86ba626468ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10f0061fae19f093",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "babd3ce7325f20fb",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2f2758e8827860b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0a3c534be32950f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45360cbcc4203553",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "딥러닝/시퀀스 딥러닝의 모든것/시퀀스 딥러닝의 모든것1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21666fc06da1f2cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "딥러닝/시퀀스 딥러닝의 모든것/시퀀스 딥러닝의 모든것1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e7b8c1d4c70c2e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65817db107fe092b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "딥러닝/시퀀스 딥러닝의 모든것/시퀀스 딥러닝의 모든것1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "ef7954939236e81f",
+  "lastOpenFiles": [
+    "웹",
+    "프로그래밍",
+    "Spaces/Home",
+    "Spaces",
+    "딥러닝/시퀀스 딥러닝의 모든것/시퀀스 딥러닝의 모든것1.md",
+    "딥러닝/무제 폴더",
+    "딥러닝/이상엽 강의",
+    "첨부파일 폴더/Pasted image 20231211195943.png",
+    "딥러닝/딥러닝의 모든것/무제 파일.md",
+    "첨부파일 폴더",
+    "딥러닝/딥러닝의 모든것",
+    "딥러닝/시퀀스 딥러닝의 모든것",
+    "딥러닝",
+    "머신러닝"
+  ]
+}
