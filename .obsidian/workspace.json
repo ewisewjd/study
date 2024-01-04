@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "딥러닝/시퀀스 딥러닝의 모든것/시퀀스 딥러닝의 모든것1.md",
+                "file": "데이터 사이언스/네이버 코칭 스터디/네이버 코칭 스터디1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "딥러닝/시퀀스 딥러닝의 모든것/시퀀스 딥러닝의 모든것1.md",
+                "file": "데이터 사이언스/네이버 코칭 스터디/네이버 코칭 스터디1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "딥러닝/시퀀스 딥러닝의 모든것/시퀀스 딥러닝의 모든것1.md",
+                "file": "데이터 사이언스/네이버 코칭 스터디/네이버 코칭 스터디1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "딥러닝/시퀀스 딥러닝의 모든것/시퀀스 딥러닝의 모든것1.md"
+                "file": "데이터 사이언스/네이버 코칭 스터디/네이버 코칭 스터디1.md"
               }
             }
           }
@@ -176,21 +175,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ef7954939236e81f",
+  "active": "a85de4aa6ecd7029",
   "lastOpenFiles": [
+    "딥러닝/시퀀스 딥러닝의 모든것/시퀀스 딥러닝의 모든것1.md",
+    "데이터 사이언스/네이버 코칭 스터디/네이버 코칭 스터디1.md",
+    "데이터 사이언스/네이버 코칭 스터디/.md",
+    "데이터 사이언스/네이버 코칭 스터디",
+    "데이터 사이언스",
     "웹",
     "프로그래밍",
     "Spaces/Home",
     "Spaces",
-    "딥러닝/시퀀스 딥러닝의 모든것/시퀀스 딥러닝의 모든것1.md",
     "딥러닝/무제 폴더",
     "딥러닝/이상엽 강의",
     "첨부파일 폴더/Pasted image 20231211195943.png",
     "딥러닝/딥러닝의 모든것/무제 파일.md",
     "첨부파일 폴더",
-    "딥러닝/딥러닝의 모든것",
-    "딥러닝/시퀀스 딥러닝의 모든것",
-    "딥러닝",
-    "머신러닝"
+    "딥러닝/딥러닝의 모든것"
   ]
 }
