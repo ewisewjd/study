@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "298faecef9661d26",
+        "id": "ccaa1effa1ee920b",
         "type": "tabs",
         "children": [
           {
-            "id": "a332e5cf2594bc62",
+            "id": "fce3340244d5f8df",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,8 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a332e5cf2594bc62",
+  "active": "fce3340244d5f8df",
   "lastOpenFiles": [
+    "데이터 사이언스/데이터 분석/sql",
+    "데이터 사이언스/데이터 분석",
     "딥러닝/시퀀스 딥러닝의 모든것/시퀀스 딥러닝의 모든것1.md",
     "역사학, 과학",
     "금융",
@@ -161,7 +162,6 @@
     "프로그래밍",
     "Spaces/Home",
     "Spaces",
-    "딥러닝/무제 폴더",
     "첨부파일 폴더/Pasted image 20231211195943.png",
     "딥러닝/딥러닝의 모든것/무제 파일.md"
   ]
