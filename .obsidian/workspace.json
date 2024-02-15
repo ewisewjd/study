@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,8 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fce3340244d5f8df",
+  "active": "ef7954939236e81f",
   "lastOpenFiles": [
+    "통계학",
+    "수학",
     "데이터 사이언스/데이터 분석/sql",
     "데이터 사이언스/데이터 분석",
     "딥러닝/시퀀스 딥러닝의 모든것/시퀀스 딥러닝의 모든것1.md",
@@ -161,8 +162,6 @@
     "데이터 사이언스",
     "웹",
     "프로그래밍",
-    "Spaces/Home",
-    "Spaces",
     "첨부파일 폴더/Pasted image 20231211195943.png",
     "딥러닝/딥러닝의 모든것/무제 파일.md"
   ]
