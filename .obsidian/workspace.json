@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ccaa1effa1ee920b",
+        "id": "2ccf0f7847e1c0cd",
         "type": "tabs",
         "children": [
           {
-            "id": "fce3340244d5f8df",
+            "id": "7f96ca4d29ec7708",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
             }
           }
         ]
@@ -69,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,8 +149,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ef7954939236e81f",
+  "active": "7f96ca4d29ec7708",
   "lastOpenFiles": [
+    "수학/수학 리부트/무제 파일.md",
+    "수학/수학 리부트",
     "통계학",
     "수학",
     "데이터 사이언스/데이터 분석/sql",
@@ -160,8 +165,6 @@
     "데이터 사이언스/네이버 코칭 스터디/.md",
     "데이터 사이언스/네이버 코칭 스터디",
     "데이터 사이언스",
-    "웹",
-    "프로그래밍",
     "첨부파일 폴더/Pasted image 20231211195943.png",
     "딥러닝/딥러닝의 모든것/무제 파일.md"
   ]
