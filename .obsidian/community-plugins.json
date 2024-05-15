@@ -1,5 +1,7 @@
 [
   "dataview",
   "make-md",
-  "obsidian-git"
+  "obsidian-git",
+  "execute-code",
+  "obsidian-latex-suite"
 ]
