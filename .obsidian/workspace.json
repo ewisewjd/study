@@ -23,14 +23,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/점프 투 파이썬/점프 투 파이썬.md",
+                "file": "프로그래밍/점프 투 파이썬/점프 투 파이썬 1..md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "70cd19fa4a6e430f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -104,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/점프 투 파이썬/점프 투 파이썬.md",
+                "file": "프로그래밍/점프 투 파이썬/점프 투 파이썬 1..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/점프 투 파이썬/점프 투 파이썬.md",
+                "file": "프로그래밍/점프 투 파이썬/점프 투 파이썬 1..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/점프 투 파이썬/점프 투 파이썬.md"
+                "file": "프로그래밍/점프 투 파이썬/점프 투 파이썬 1..md"
               }
             }
           }
@@ -165,9 +176,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9a49d9b7a9e425ae",
+  "active": "70cd19fa4a6e430f",
   "lastOpenFiles": [
-    "프로그래밍/점프 투 파이썬/점프 투 파이썬.md",
+    "프로그래밍/점프 투 파이썬/점프 투 파이썬 1..md",
     "프로그래밍/점프 투 파이썬",
     "프로그래밍/파이썬 스킬업/무제 폴더",
     "프로그래밍/파이썬 스킬업",
